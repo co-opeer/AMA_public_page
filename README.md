@@ -1,7 +1,7 @@
 $\textsf{\Large{AMA OptiCore Team}}$  
 | Oleksii D.| Diachuk M.|Danchylo A.|
 |--------------------------|--------------------------|--------------------------|
-| alexdovhaniuk@gmail.com|diachuk.mykola27@gmail.com|danciloekv@gmail.comg|
+| alexdovhaniuk@gmail.com|diachuk.mykola27@gmail.com|danciloekv@gmail.com|
 
 
 
