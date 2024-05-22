@@ -10,7 +10,7 @@ $\textsf{\normalsize{17st April 2024 - Computer Vision}}$
 
 
 # OVERVIEW
-Computer vision for a parking system is an  stand-alone device, a camera that can recognize, classify, and distinguish vehicles in a parking lot.   
+Computer vision for a parking system is software for a camera or group of cameras that can recognize, classify, and distinguish vehicles in a parking lot, offer a parking space, and conduct deep static.  
 # GOALS
 **MVP:** develop solutions for autonomizing the operation of parking lots, automatically calculating parking bills, and improving the quality of service. 
 
