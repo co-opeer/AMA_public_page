@@ -12,9 +12,9 @@ $\textsf{\normalsize{17st April 2024 - Computer Vision}}$
 # OVERVIEW
 Computer vision for a parking system is software for a camera or group of cameras that can recognize, classify, and distinguish vehicles in a parking lot, offer a parking space, and conduct deep static.  
 # GOALS
-**MVP:** development of a web application for finding a free parking space. 
+**MVP:** development of a web application for finding a free parking space in real time. 
 
-**IDEAL:** all MVP functions should work in real time. In addition, the camera should offer the car the best parking spot and help with parking. The ability to reserve a space. There is a need to develop a mobile application.   
+**IDEAL:** the app should offer the car the best parking spot and help with parking. The ability to reserve a space. There is a need to develop a mobile application.  
 # TARGET GROUPS     
 - Parking Lot Owners
 - City Authorities
